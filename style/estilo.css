@@ -8,8 +8,8 @@
 body{
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
-font-size: 16px;
-font-weight: 400;
+    font-size: 16px;
+    font-weight: 400;
     }
 .cabeçalho{
         background-color: var(--cor-branca);
@@ -50,8 +50,9 @@ padding: 1em;
 background-color: var(--branco);
 }
 .lista-menu__titulo {
-    color: var(--laranja);}
-    font-weight: 700;
+    color: var(--laranja);
+    font-weight: 700;}
+    
 .lista-menu__link {
         background: var(--azul-degrade);
         -webkit-background-clip: text;
